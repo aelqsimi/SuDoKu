@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SuDoKu</string>
+    <string name="_00_00">00:00</string>
+    <string name="v_rifier">Vérifier</string>
+    <string name="r_essayer">Réessayer</string>
+    <string name="temps">Temps:</string>
+    <string name="sudoku">SuDoKu</string>
+    <string name="votre_choix">Votre choix</string>
+    <string name="grille_du_jour">Grille du jour</string>
+    <string name="connexion">Connexion</string>
+    <string name="mot_de_passe">mot de passe:</string>
+    <string name="login">Login:</string>
+    <string name="bienvenue_prenom_nom">Bienvenue Prenom Nom</string>
+    <string name="a_propos">A Propos</string>
+    <string name="jouer">Jouer</string>
+    <string name="retour">Retour</string>
+    <string name="recommencer">Recommencer</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="recharger">Recharger</string>
+    <string name="se_d_connecter">Se déconnecter</string>
+    <string name="nouveau_cr_er_un_compte">Nouveau? Créer un compte</string>
+</resources>
